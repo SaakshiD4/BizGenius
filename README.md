@@ -51,9 +51,13 @@ The scraped dataset of ~300 real startup records was then statistically augmente
 
 Open the app in your browser
 1.Browse the ecosystem dashboard to understand current startup trends
+
 2.Navigate to the prediction section and enter your startup details
-3..Click Predict & Analyse
+
+3.Click Predict & Analyse
+
 4.Review your success score, risk level, competitor insights, and AI strategy
+
 5.Download your PDF report or investor pitch deck
 
 
